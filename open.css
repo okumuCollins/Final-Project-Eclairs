@@ -66,6 +66,7 @@ button {
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
+  border-radius: 13px;
 }
 
 button:hover {
@@ -93,11 +94,10 @@ button:hover {
   z-index: 1; 
   left: 0;
   top: 0;
-  
-  margin-left:400px ;
+ 
   height: 100%; 
   overflow: auto;
-  background-color: #474e5d;
+  background-color: #ffffff;
   padding-top: 0px;
 }
 
