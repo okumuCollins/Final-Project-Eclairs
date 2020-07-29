@@ -1,0 +1,81 @@
+body{
+    background-color: ivory;
+}
+.container {
+ width: 100%;
+ height: auto;
+ background: white;
+
+ /*add flexbox style*/
+
+ display: flexbox ;
+ flex-direction: row;
+ justify-content: space-around;
+ flex-flow: wrap;
+ overflow: hidden;
+ text-align: justify;
+ padding: 0;
+ margin: 0;
+
+}
+.box1  {
+    margin: 1px;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 210px;
+    left: 40px;
+
+
+}
+.box2 {
+    margin: 20px;
+    position: relative;
+    bottom: 155px;
+    left: 140px;
+    height:100px;
+    width: 90px;
+    
+ 
+
+
+}
+.nav {
+    background-color:greenyellow;
+    height: 150px;
+    width: 100%;
+    
+}
+.grain {
+    margin: 30px;
+    position: relative;
+    bottom: 180px;
+    text-align: center;
+
+    
+}
+ .von {
+     margin: 30px;
+     text-align: center;
+     position: relative;
+     bottom: 190px;
+
+ }   
+ .search-box {
+     margin-left: 45%;
+     margin-right: 45%;
+     position: relative;
+     bottom: 210px;
+     border-radius: 100px;
+     
+ }
+
+
+ 
+     
+
+ 
+ 
+ 
+ 

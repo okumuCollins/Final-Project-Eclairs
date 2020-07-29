@@ -1,0 +1,52 @@
+body {
+    background-color:whitesmoke;
+}
+.nav {
+    background-color:greenyellow;
+    height: 150px;
+    width: 100%;
+}
+
+
+.box1 {
+    margin:10px;
+    position: relative;
+    bottom: 155px;
+    left: 140px;
+    border-radius: 100px;
+   
+}
+.box2 {
+   
+    margin: 1px;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 210px;
+    left: 40px;
+
+}
+.main {
+    margin: 30px;
+    position: relative;
+    bottom: 170px;
+    text-align: center;
+}
+.vein {
+    margin: 30px;
+     text-align: center;
+     position: relative;
+     bottom: 180px;
+}
+.Search-box{
+    position: relative;
+    bottom: 180px;
+    text-align: start;
+    border-radius: 100px;
+    margin-left: 45%;
+    margin-right: 45%;
+
+}
+
+
